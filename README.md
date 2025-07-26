@@ -1,7 +1,7 @@
 # bayesian-dl
 Bayesian Deep Learning: Bayesian reasoning, Uncertainty quantification, Variational Autoencoders
 
-# Bayesian Deep Learning (UCL MSc Coursework)
+# Bayesian Deep Learning 
 
 This repository contains a collection of Jupyter notebooks developed for the Bayesian Deep Learning module at UCL. Each notebook demonstrates a core concept in probabilistic machine learning, including uncertainty quantification, Bayesian inference, and generative modeling.
 
